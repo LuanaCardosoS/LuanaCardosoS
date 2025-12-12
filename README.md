@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LuanaCardosoS, my name is Luana
-- 👀 I’m interested in learning Front-end and working with 3D models for games
+- 👀 I’m interested in learning Front-end
 - 🌱 I’m currently studying Systems Analysis and Development
-- 💞️ I’m looking to collaborate on a Game project
-- 📫 How to reach me email: luana_cardosos@hotmail.com
+- 📫 How to reach me email: luanacsouzz@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a programming beginner
 
