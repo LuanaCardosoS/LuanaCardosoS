@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @LuanaCardosoS, my name is Luana
-- 👀 I’m interested in learning Front-end
-- 🌱 I’m currently studying Systems Analysis and Development
-- 📫 How to reach me email: luanacsouzz@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a programming beginner
+- 👋 Olá, me chamo Luana
+- 👀 Tenho foco em Front-end
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na FATEC
+- 📫 Forma de contato: luanacsouzz@gmail.com
+- 😄 Pronomes: ela/dela
 
 <!---
 LuanaCardosoS/LuanaCardosoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
